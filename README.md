@@ -1,4 +1,4 @@
-# AI-Internship-CodecTechnologies2
+# AI-Internship 
 # 📧 Spam Email Classifier – AI Internship Task
 
 This project classifies emails into **Spam** or **Ham (Not Spam)** using a machine learning model.
